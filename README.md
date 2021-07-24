@@ -1,0 +1,5 @@
+- 👋 Hi there, I’m @sabinaprochowski13. My name is Sabina Prochowski and I am a rising junior at New York University studying computer science and data science.
+- 👀 I’m interested in Python projects and web-design!
+- 🌱 I’m currently learning React.js to create more complex websites.
+- 💞️ I’m looking to collaborate on any projects, especially those in the biotech or web-designing fields.
+- 📫 The best way to reach me is via email: sabina.prochowski@nyu.edu 
